@@ -1,4 +1,4 @@
-# ImgFlow — Image to PDF Converter
+# ImgFlow - Image to PDF Converter
 
 A modern, client-side image to PDF converter that runs entirely in your browser. No uploads to servers, no limits.
 
