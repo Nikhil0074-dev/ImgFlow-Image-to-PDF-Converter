@@ -4,18 +4,18 @@ A modern, client-side image to PDF converter that runs entirely in your browser.
 
 ## Features
 
-- **Drag & Drop Upload** — Easily upload images by dragging them into the upload zone
-- **Multiple Format Support** — Supports JPG, PNG, BMP, GIF, and WEBP images
-- **Reorder Pages** — Drag and drop to reorder pages in the PDF
-- **Preview Images** — Click on any image to preview it in full size
+- **Drag & Drop Upload** - Easily upload images by dragging them into the upload zone
+- **Multiple Format Support** - Supports JPG, PNG, BMP, GIF, and WEBP images
+- **Reorder Pages** - Drag and drop to reorder pages in the PDF
+- **Preview Images** - Click on any image to preview it in full size
 - **Customizable Settings**:
   - Page sizes: A4, A3, A5, US Letter, Square
   - Orientation: Portrait, Landscape, Auto (per image)
   - Image fit: Fit, Fill, Stretch, Center
   - Page margins: None, Small, Medium, Large
   - Quality toggle: High/Low JPEG quality
-- **Client-Side Processing** — All conversion happens in your browser. Your images never leave your device.
-- **No Limits** — Convert as many images as you want
+- **Client-Side Processing**  All conversion happens in your browser. Your images never leave your device.
+- **No Limits** - Convert as many images as you want
 
 ## Usage
 
@@ -28,13 +28,12 @@ A modern, client-side image to PDF converter that runs entirely in your browser.
 
 ## Browser Support
 
-- Chrome (recommended)
+- Chrome 
 - Firefox
 - Edge
-- Safari
 
 ## Technical Details
 
 - Uses [pdf-lib](https://pdf-lib.js.org/) for PDF generation
-- No server-side processing — everything runs locally
+- No server-side processing - everything runs locally
 - Responsive design for desktop and mobile
